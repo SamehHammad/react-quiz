@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-quiz-/static/css/main.a629c635.css",
+    "main.js": "/react-quiz-/static/js/main.3ec76369.js",
+    "static/media/sameh.png": "/react-quiz-/static/media/sameh.76b214faafcfaebd0f66.png",
+    "index.html": "/react-quiz-/index.html",
+    "main.a629c635.css.map": "/react-quiz-/static/css/main.a629c635.css.map",
+    "main.3ec76369.js.map": "/react-quiz-/static/js/main.3ec76369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a629c635.css",
+    "static/js/main.3ec76369.js"
+  ]
+}
